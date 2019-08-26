@@ -1,0 +1,24 @@
+{
+  "name": "node-vhost-example",
+  "version": "1.0.0",
+  "description": "vhost-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outstanding1301/node-vhost-example.git"
+  },
+  "author": "outstandingboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/outstanding1301/node-vhost-example/issues"
+  },
+  "homepage": "https://github.com/outstanding1301/node-vhost-example#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "vhost": "^3.0.2"
+  }
+}
